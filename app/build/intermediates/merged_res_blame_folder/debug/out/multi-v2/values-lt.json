@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.cloudpos.apidemoforunionpaycloudpossdk.app-mergeDebugResources-5:/values-lt/values-lt.xml",
+            "map": [
+                {
+                    "source": "/Users/mohamedallam/.gradle/caches/transforms-3/dad8dddcece51e1d9f63267420742e7e/transformed/support-compat-26.1.0/res/values-lt/values-lt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

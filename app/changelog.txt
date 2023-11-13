@@ -1,0 +1,19 @@
+Version: 1.2.3_V1.5.3.031
+2021-03-24 17:08:00
+1,更新aar -> 031
+2,修改了LED，SerialPort的demo方法
+3,改正Pinpad.setGUIConfiguration()参数,dajiavoozcredit -> dejavoozcredit
+4,Printer 增加了一个生成二维码的方法,使用 lib/zxing.jar
+
+Version: 1.2.3_V1.5.3.036
+2021-04-02 17:14:28
+1,改善设备打开调用的index为sdk内的常量
+2,打印机demo类中增加了一个生成二维码的方法,用到了lib/zxing.jar
+
+Version: 1.2.4_V1.5.3.081
+2022-03-04 17:14:28
+1,修改包名为cloudpos
+2,修改非接卡根据卡类型设置sector和block
+Version: 1.2.5_V1.5.4.74
+2023-07-14
+1 添加calculateResponseMac功能#26861

@@ -1,0 +1,10 @@
+com.cloudpos.apidemoforunionpaycloudpossdk.app-adapters-8.1.2-0 /Users/mohamedallam/.gradle/caches/transforms-3/21defd1be53083270fff24a6d3a3c10d/transformed/adapters-8.1.2/res
+com.cloudpos.apidemoforunionpaycloudpossdk.app-support-compat-26.1.0-1 /Users/mohamedallam/.gradle/caches/transforms-3/dad8dddcece51e1d9f63267420742e7e/transformed/support-compat-26.1.0/res
+com.cloudpos.apidemoforunionpaycloudpossdk.app-library-8.1.2-2 /Users/mohamedallam/.gradle/caches/transforms-3/fdd2311bce91f129368a907e2cf249eb/transformed/library-8.1.2/res
+com.cloudpos.apidemoforunionpaycloudpossdk.app-pngs-3 /Users/mohamedallam/Downloads/APIDemoForAar/app/build/generated/res/pngs/debug
+com.cloudpos.apidemoforunionpaycloudpossdk.app-resValues-4 /Users/mohamedallam/Downloads/APIDemoForAar/app/build/generated/res/resValues/debug
+com.cloudpos.apidemoforunionpaycloudpossdk.app-packageDebugResources-5 /Users/mohamedallam/Downloads/APIDemoForAar/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.cloudpos.apidemoforunionpaycloudpossdk.app-packageDebugResources-6 /Users/mohamedallam/Downloads/APIDemoForAar/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.cloudpos.apidemoforunionpaycloudpossdk.app-merged_res-7 /Users/mohamedallam/Downloads/APIDemoForAar/app/build/intermediates/merged_res/debug
+com.cloudpos.apidemoforunionpaycloudpossdk.app-debug-8 /Users/mohamedallam/Downloads/APIDemoForAar/app/src/debug/res
+com.cloudpos.apidemoforunionpaycloudpossdk.app-main-9 /Users/mohamedallam/Downloads/APIDemoForAar/app/src/main/res
